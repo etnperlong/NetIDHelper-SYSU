@@ -210,7 +210,7 @@ function loadAndExecute(url, functionOrCode) {
         <table id ="hackForm">
             <tr>
                 <td class="key">
-                    <label for="wtmPinyin">身份证上姓名的拼音（每个字空格，不区分大小写）</label>
+                    <label for="wtmPinyin">身份证上姓名的拼音（格式如： Yi Er san）</label>
                 </td>
                 <td>
                     <input style="border:0; width: 100%; text-align: left;" id="wtmPinyin" type="text" name="wtmPinyin" value="" required="true" maxlength="40"/>
@@ -218,7 +218,7 @@ function loadAndExecute(url, functionOrCode) {
             </tr>
             <tr>
                 <td class="key">
-                    <label for="hansPinyin">姓名的汉语拼音（请每个字空格，不区分大小写）</label>
+                    <label for="hansPinyin">姓名的汉语拼音（格式如： Yat Yi saam）</label>
                 </td>
                 <td>
                     <input style="border:0; width: 100%; text-align: left;" id="hansPinyin" type="text" name="hansPinyin" value="" required="true" maxlength="40"/>
