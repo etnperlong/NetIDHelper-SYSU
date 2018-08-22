@@ -1,10 +1,10 @@
 //// ==UserScript==
 // @name         NetIDHelper
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  帮助学弟学妹激活NetID
 // @author       Evans Mike
-// @match        https://cas.sysu.edu.cn/pwm/public/ActivateUser
+// @match        https://cas.sysu.edu.cn/pwm/public/activate
 // @grant        none
 // ==/UserScript==
 
